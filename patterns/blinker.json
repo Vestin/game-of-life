@@ -1,0 +1,20 @@
+{
+  "aliveCells": [
+    [
+      15,
+      14
+    ],
+    [
+      15,
+      15
+    ],
+    [
+      15,
+      16
+    ]
+  ],
+  "aliveCellColor": "yellow",
+  "deadCellColor": "black",
+  "canvasWidth": 30,
+  "canvasHeight": 30
+}
